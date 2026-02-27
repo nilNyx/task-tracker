@@ -32,5 +32,7 @@ mark-in-progress `id>`           | -mip `<id>`,
 
 mark-done        `<id>`          | -md  `<id>`
 
+---
 
-[project page](https://roadmap.sh/projects/task-tracker)
+### [Project page](https://roadmap.sh/projects/task-tracker)
+
